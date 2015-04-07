@@ -21,6 +21,6 @@ Any spaces before and after the target word/s are ignored
 
 BubbleSort.java
 
-An implementation of the Bubble sort method for a list of comparable objects. A Random object is used to generate integers for the test list of integers. The number of items in the list as well as the max number to be generated for the test list can be altered as desired in the class variables.
+An implementation of the Bubble sort method for a list of comparable objects. A Random object is used to generate integers for the test list of integers. The number of items in the test list as well as the max value for the any integer generated for the test list can be altered as desired in the class variables.
 
 
